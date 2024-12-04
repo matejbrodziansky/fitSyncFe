@@ -9,12 +9,22 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.1234567890-abcdefg"
+        }
+      },
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleSignIn": {
+          "certificateHash": "1234567890abcdef1234567890abcdef12345678"
+        }
       }
     },
     "web": {
@@ -32,7 +42,9 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-secure-store",
+      "expo-video"
     ],
     "experiments": {
       "typedRoutes": true

@@ -1,0 +1,223 @@
+Je takato appka narocna na schvalenie do appstore a google play ?
+ChatGPT povedal:
+ChatGPT
+
+Všeobecne, aplikácia ako táto (fitness a zdravotne orientovaná aplikácia) nie je extrémne náročná na schválenie do App Store a Google Play, ale je dôležité dodržať niekoľko zásad a pravidiel, aby sa schválenie podarilo. Oba obchody majú svoje pravidlá, ktoré musia aplikácie spĺňať.
+1. App Store (iOS)
+
+Apple má prísnejší schvaľovací proces, ale ak dodržíš pravidlá, nemal by byť problém. Tvoje aplikácie môžu byť posudzované podľa nasledujúcich kritérií:
+A) Obsah aplikácie
+
+    Kvalita a použiteľnosť: Aplikácia musí byť plne funkčná a nesmie obsahovať chyby alebo nedokončené časti (napr. placeholdery).
+    Relevantnosť obsahu: Aplikácia musí jasne odrážať to, čo uvádzaš v popise. Ak ponúka cvičenia a videá, musí ich obsahovať už od začiatku.
+    Zdravotné tvrdenia: Ak aplikácia tvrdí, že pomáha odstrániť bolesť, musíš byť opatrný. Apple môže vyžadovať dôkazy alebo doloženie, že tieto tvrdenia sú vedecky podložené.
+
+B) Bezpečnosť
+
+    Údaje používateľov: Aplikácia musí jasne definovať, ako spracúva osobné údaje (GDPR a Apple Privacy Guidelines). Ak zbieraš údaje o zdraví alebo osobné údaje, musíš mať prehľadné podmienky používania a ochrany osobných údajov.
+    Bezpečné používanie: Ak sú cvičenia navrhnuté na zmiernenie bolesti, pridaj upozornenie o konzultácii s odborníkom (napr. „Pred vykonávaním cvičení sa poraďte so svojím lekárom.“).
+
+C) Monetizácia
+
+Ak plánuješ predplatné, in-app nákupy alebo body za odmeny, musíš použiť Apple In-App Purchase systém. Apple nepovoľuje alternatívne spôsoby platieb.
+2. Google Play (Android)
+
+Google Play má o niečo voľnejšie pravidlá, ale aj tu sú určité zásady:
+A) Obsah aplikácie
+
+    Kvalita: Google neodmietne aplikáciu len pre menšie chyby, ale ak aplikácia často padá, bude penalizovaná.
+    Zdravotné tvrdenia: Podobne ako v prípade Apple, musíš byť opatrný, ak uvádzaš, že aplikácia pomáha pri bolestiach. Pridaj vhodné upozornenia.
+
+B) Bezpečnosť a údaje
+
+    Údaje o používateľoch: Ak aplikácia spracúva osobné údaje alebo údaje o zdraví, musíš mať jasné zásady ochrany súkromia a dodržiavať GDPR.
+    Povolenia: Minimalizuj povolenia, ktoré aplikácia vyžaduje (napr. prístup k fotoaparátu, mikrofónu). Google penalizuje aplikácie, ktoré žiadajú zbytočné povolenia.
+
+C) Monetizácia
+
+Google umožňuje širšie možnosti monetizácie ako Apple, ale ak predávaš digitálny obsah (napr. videá), musíš použiť Google Play Billing.
+3. Odporúčania na zvýšenie šance schválenia
+
+    Testovanie aplikácie: Pred odoslaním ju dôkladne otestuj, aby bola stabilná a funkčná.
+    Zásady ochrany osobných údajov: Zverejni jasné pravidlá o ochrane údajov a pridaj ich do aplikácie aj na stránku obchodu.
+    Dostatočný obsah: Zaisti, aby aplikácia nevyzerala „nedokončene“. Naplň ju základným obsahom (napr. niekoľkými videami a cvičeniami), aj keď plánuješ pridávať ďalšie videá neskôr.
+    Rešpektovanie pravidiel obchodu: Prejdi si pravidlá pre Apple a Google a uisti sa, že tvoja aplikácia ich spĺňa.
+
+4. Čas schvaľovania
+
+    Apple: Schvaľovanie môže trvať 1-3 dni. Ak však nájdu problém, môže sa proces natiahnuť.
+    Google: Zvyčajne schvaľujú aplikácie rýchlejšie (do 24 hodín), ale pri komplexnejších aplikáciách môže trvať dlhšie.
+
+5. Záver
+
+Aplikácia sama o sebe nie je príliš náročná na schválenie, ale musí byť technicky kvalitná a musí spĺňať základné pravidlá obchodov (kvalita, bezpečnosť, ochrana údajov). Najviac problémov môže vzniknúť pri tvrdeniach o zdraví a pri implementácii monetizácie.
+
+Ak dodržíš všetky zásady, nemal by byť problém aplikáciu schváliť.
+Tvoje slová:
+Ked nieco neschvalia mozem viac krat poslat ?
+ChatGPT povedal:
+ChatGPT
+
+Áno, ak ti aplikáciu neschvália, môžeš ju poslať na schválenie znova po opravení problémov, ktoré ti obchod nahlásil. Toto platí pre oba obchody, App Store aj Google Play.
+Proces pri zamietnutí:
+1. App Store (Apple)
+
+    Komunikácia s Apple:
+    Po zamietnutí dostaneš e-mail a notifikáciu v App Store Connect, kde ti Apple presne popíše dôvod zamietnutia.
+        Napríklad: „Vaša aplikácia nevyhovuje pravidlu 4.2.2 - Minimálna funkčnosť.“
+    Oprava problému:
+    Opravíš uvedené problémy (napr. chyby v aplikácii, nedostatok obsahu, nesprávne formátované metadáta) a následne aplikáciu znova odošleš na schválenie.
+    Komunikácia s reviewerom:
+    Ak nerozumieš dôvodu zamietnutia, môžeš využiť možnosť kontaktovať App Review Team priamo cez App Store Connect a požiadať o vysvetlenie.
+
+2. Google Play
+
+    Dôvod zamietnutia:
+    Google Play Developer Console ti pošle správu so zoznamom dôvodov, prečo aplikáciu zamietli. Napríklad: „Vaša aplikácia porušuje pravidlo o zbere osobných údajov.“
+    Oprava a opätovné odoslanie:
+    Opravíš chyby a aplikáciu znova odošleš cez konzolu. Google nemá limity na počet pokusov o opravu.
+    Rýchlejšia odozva:
+    Google má zvyčajne rýchlejší proces opätovného schválenia ako Apple.
+
+Najčastejšie dôvody zamietnutia:
+
+    Nedostatok obsahu: Aplikácia pôsobí nedokončene, chýba dostatočné množstvo funkcií alebo obsahu.
+    Technické chyby: Pád aplikácie, nefunkčné časti alebo zle implementované funkcie.
+    Zdravotné tvrdenia: Nedostatočné varovania pri cvičeniach alebo prehnané zdravotné tvrdenia.
+    Ochrana údajov: Nedostatok informácií o spracovaní osobných údajov (napr. chýba politika ochrany súkromia).
+    Monetizácia: Nesprávna implementácia platieb alebo obídenie App Store/Google Play platieb.
+
+Môže nastať úplné zablokovanie?
+
+    **
+
+Tvoje slová:
+App store ma obmedzene pokusy ? Potom sa plati alebo to zamietnu uplne
+ChatGPT povedal:
+ChatGPT
+
+App Store nemá obmedzený počet pokusov na odoslanie aplikácie na schválenie, takže ju môžeš odosielať opakovane, pokiaľ opravíš chyby, ktoré ti Apple uvedie. Avšak existujú určité situácie, keď môžeš naraziť na komplikácie:
+1. Opakované zamietnutia
+
+    Ak aplikáciu odosielaš na schválenie opakovane bez toho, aby si opravil problémy, môže to vyvolať pozornosť Apple.
+    V prípade, že Apple vyhodnotí, že sa snažíš obísť ich pravidlá (napr. vedome ignoruješ ich pokyny), môže:
+        Aplikáciu trvalo odstrániť zo schvaľovacieho procesu.
+        Zablokovať tvoj vývojársky účet, ak porušuješ pravidlá závažne alebo opakovane.
+
+2. Poplatky za vývojársky účet
+
+    Apple neúčtuje žiadne poplatky za samotné odoslanie aplikácie na schválenie, bez ohľadu na počet pokusov.
+    Platiť musíš iba ročný poplatok za Apple Developer Program (99 USD ročne). Tento poplatok je fixný a nemá nič spoločné s počtom schvaľovaní.
+
+3. Ak aplikáciu zamietnu natrvalo
+
+    Ak Apple zamietne aplikáciu natrvalo, stále môžeš podať odvolanie cez App Review Board.
+    Pri odvolaní musíš jasne vysvetliť, prečo si myslíš, že aplikácia spĺňa pravidlá, prípadne poskytnúť dodatočné informácie.
+
+Odporúčanie pre hladký proces schválenia:
+
+    Opraviť všetky chyby pred ďalším odoslaním: Starostlivo si prečítaj dôvody zamietnutia a uisti sa, že všetko spĺňa pravidlá.
+    Komunikuj s Apple Review Team: Ak ti niečo nie je jasné, obráť sa na tím cez App Store Connect – sú ochotní pomôcť a často vysvetlia detaily.
+    Dodržiavaj pravidlá od začiatku: Riaď sa pokynmi Apple Guidelines pre obsah, dizajn a monetizáciu aplikácie, aby si minimalizoval riziko zamietnutia.
+
+Záver:
+
+Schvaľovanie je bezplatné a nemáš obmedzený počet pokusov. Apple však očakáva, že budeš aktívne pracovať na oprave chýb a nebudeš opakovane posielať aplikáciu bez zmien. Ak sa riadiš ich pravidlami, tvoja aplikácia by mala byť skôr či neskôr schválená.
+Tvoje slová:
+Takze v pohode celkom.
+
+Lepsie ke asi zacat google play nie
+ChatGPT povedal:
+ChatGPT
+
+Áno, začať s Google Play je často jednoduchšie a rýchlejšie, najmä ak si na začiatku vývoja alebo schvaľovacieho procesu ešte nerozumieš úplne. Dôvody:
+Prečo začať s Google Play?
+
+    Rýchlejší schvaľovací proces:
+        Google zvyčajne schvaľuje aplikácie do 1-2 dní, zatiaľ čo u Apple to môže trvať 3-7 dní alebo viac.
+        Ak je problém, Google ti dá rýchlu spätnú väzbu a opravu môžeš hneď odoslať.
+
+    Nižšie nároky na dizajn a funkcionalitu:
+        Google je flexibilnejší pri prijímaní aplikácií. Nie sú tak prísni na dizajn a „minimálnu funkčnosť“ ako Apple.
+
+    Jednoduchšia komunikácia:
+        Ak aplikácia neprejde, dôvody zamietnutia bývajú jasne uvedené a celý proces opravy je často menej formálny.
+
+    Lacnejší vývojársky účet:
+        Google Play poplatok je jednorazový 25 USD, zatiaľ čo u Apple je ročný 99 USD.
+
+Prečo by si mal počítať aj s App Store?
+
+    Väčšia prestíž:
+        Aplikácie na App Store bývajú považované za kvalitnejšie, takže môžeš zaujať náročnejších používateľov.
+    Lepší výnos pri iOS používateľoch:
+        Používatelia iPhonov míňajú viac na aplikácie a in-app nákupy než používatelia Androidu.
+
+Odporúčaný postup:
+
+    Začni s Google Play:
+    Získaj spätnú väzbu na svoju aplikáciu, oprav prípadné chyby a dolaď jej funkcionalitu.
+
+    Optimalizuj pre App Store:
+    Keď bude aplikácia stabilná a bez problémov, priprav ju na App Store. Uisti sa, že dizajn aj funkcionalita spĺňajú App Store Guidelines.
+
+Záver:
+
+Google Play je určite lepšie miesto na začiatok, ak testuješ svoju aplikáciu alebo zisťuješ, aké požiadavky na schválenie budú kladené. Keď ju tam dostaneš, môžeš sa pustiť do precíznejšej prípravy pre App Store, ktorý je prísnejší, ale stojí za to.
+Tvoje slová:
+Ako to je ked urobim update apply ?
+ChatGPT povedal:
+ChatGPT
+
+Keď vydáš update aplikácie na Google Play alebo App Store, proces schvaľovania je podobný ako pri prvej verzii, ale s určitými rozdielmi. Pozrime sa na to podrobnejšie:
+Google Play (Android)
+
+    Pridanie novej verzie:
+        Nahraj novú APK/AAB do Google Play Console.
+        Zmeň verziu aplikácie (napr. z 1.0 na 1.1).
+        Vyplň nové informácie o aktualizácii (napr. changelog).
+
+    Schvaľovací proces:
+        Každý update prechádza automatickým kontrolným procesom a môže byť podrobený manuálnej kontrole.
+        Obvykle trvá schválenie rýchlejšie než pri prvej verzii (často do 24 hodín).
+
+    Používatelia aktualizáciu dostanú automaticky:
+        Ak majú povolené automatické aktualizácie, aplikácia sa im aktualizuje bez zásahu.
+        Inak ich Google Play upozorní na dostupný update.
+
+App Store (iOS)
+
+    Pridanie novej verzie:
+        Nahraj novú verziu do App Store Connect.
+        Zmeň build number a verziu aplikácie (napr. z 1.0 na 1.1).
+        Pridaj poznámky k aktualizácii (napr. „Fixes bugs and improves performance“).
+
+    Schvaľovací proces:
+        Každý update prechádza manuálnym schvaľovaním rovnako ako prvá verzia.
+        Ak si predchádzajúce verzie dodržiavali pravidlá a update obsahuje len menšie zmeny, proces schvaľovania býva rýchlejší (1-2 dni).
+
+    Používatelia aktualizáciu dostanú:
+        Rovnaké pravidlá ako pri Google Play – automatické aktualizácie alebo upozornenie na dostupný update.
+
+Dôležité pri updatoch:
+
+    Kompatibilita:
+        Pri každom update skontroluj, či starší používatelia (so staršími verziami OS) nebudú mať problémy s kompatibilitou.
+
+    Rollback (návrat k staršej verzii):
+        Google Play: Umožňuje "stiahnuť" novú verziu, ak sa v nej objavia chyby. Môžeš vrátiť späť staršiu verziu.
+        App Store: Apple neumožňuje jednoduchý rollback. Musíš nahrať nový update, ktorý opravuje chyby.
+
+    Testovanie:
+        Google Play: Používaj internal testing track alebo closed testing track, aby si aktualizáciu najskôr otestoval s obmedzeným počtom používateľov.
+        App Store: Používaj TestFlight na testovanie aplikácie pred vydaním aktualizácie.
+
+    Dôvody zamietnutia updatov:
+        Ak update obsahuje nové funkcie, ktoré nesúhlasia s pravidlami obchodu, môžu ho zamietnuť (napr. nový spôsob monetizácie, nesprávne spracovanie osobných údajov).
+
+Záver:
+
+    Google Play má jednoduchší a rýchlejší proces updatov. Je vhodné update najskôr vydať tam.
+    App Store vyžaduje viac času a presnosti, ale ak aplikácia už prešla prísnym schválením pri prvej verzii, je pravdepodobné, že update schvália rýchlejšie.
+
+Udržiavaj changelog, testuj na interných verziách a dbaj na kompatibilitu.
